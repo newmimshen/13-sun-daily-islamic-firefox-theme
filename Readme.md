@@ -12,11 +12,11 @@
 He added: According to the words of Imam Hadi (AS), Saturday is named after the Prophet Muhammad (PBUH), Sunday for Amir al-Mu'minin Ali (AS), Monday for Imam Hasan al-Mujtaba and Imam Husayn (AS), Tuesday for Imam Zain al-Abidin, Imam Muhammad al-Baqir, and Imam Ja'far al-Sadiq (AS), Wednesday for Imam Musa al-Kadhim, Imam Reza, Imam Muhammad al-Jawad, and Imam Hadi (AS), Thursday for Imam Hasan al-Askari (AS), and Friday is the day of Imam al-Mahdi (AJ).
 
 ## List of content
-1. #### [Next update](#Next-update:)
-2. #### [Code review](#Code-review)
-3. #### [Challenges](#Challenges)
-4. #### [Plans for next versions](#Plans-for-next-versions)
-5. #### [Techs used in this project](#Techs-used-in-this-project)
+1. #### [Next update](#Next-update-1)
+2. #### [Code review](#Code-review-1)
+3. #### [Challenges](#Challenges-1)
+4. #### [Plans for next versions](#Plans-for-next-versions-1)
+5. #### [Techs used in this project](#Techs-used-in-this-project-1)
 6. #### [About me (a word with you)](#about-me)
 
 ## Next update:
