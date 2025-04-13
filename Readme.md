@@ -24,6 +24,7 @@ He added: According to the words of Imam Hadi (AS), Saturday is named after the 
 - [ ] if possible: change name of 13 sun to 14 sun
 - [ ] add supports for ltr browsers (images be in right side): browser syncs with language, if you choose "en" tabs are left and vice versa
 - [ ] add image of shrines for when browser is in inactive mode(its beautiful and dont annoy you, because browser is not your active window)
+- [ ] add a relevant icon
 
 
 
