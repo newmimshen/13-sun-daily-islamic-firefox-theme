@@ -12,7 +12,7 @@
 He added: According to the words of Imam Hadi (AS), Saturday is named after the Prophet Muhammad (PBUH), Sunday for Amir al-Mu'minin Ali (AS), Monday for Imam Hasan al-Mujtaba and Imam Husayn (AS), Tuesday for Imam Zain al-Abidin, Imam Muhammad al-Baqir, and Imam Ja'far al-Sadiq (AS), Wednesday for Imam Musa al-Kadhim, Imam Reza, Imam Muhammad al-Jawad, and Imam Hadi (AS), Thursday for Imam Hasan al-Askari (AS), and Friday is the day of Imam al-Mahdi (AJ).
 
 ## List of content
-1. #### Next update plan
+1. #### [Next update](#Next-Update:)
 2. #### Code review
 3. #### Challenges
 4. #### Plans for next versions
@@ -20,10 +20,10 @@ He added: According to the words of Imam Hadi (AS), Saturday is named after the 
 6. #### About me (a word with you)
 
 ## Next Update:
-- [] add Fatima Zahra (SA) images set 
-- [] if possible: change name of 13 sun to 14 sun
-- [] add supports for ltr browsers (images be in right side): browser syncs with language, if you choose "en" tabs are left and vice versa
-- [] add image of shrines and etc for when browser is in inactive mode(its beautiful and dont annoy you, because browser is not your active window)
+- [ ] add Fatima Zahra (SA) images set 
+- [ ] if possible: change name of 13 sun to 14 sun
+- [ ] add supports for ltr browsers (images be in right side): browser syncs with language, if you choose "en" tabs are left and vice versa
+- [ ] add image of shrines for when browser is in inactive mode(its beautiful and dont annoy you, because browser is not your active window)
 
 
 
