@@ -13,11 +13,11 @@ He added: According to the words of Imam Hadi (AS), Saturday is named after the 
 
 ## List of content
 1. #### [Next update](#Next-Update:)
-2. #### Code review
-3. #### Challenges
-4. #### Plans for next versions
-5. #### Techs used in this project
-6. #### About me (a word with you)
+2. #### [Code review](#Code-review)
+3. #### [Challenges](#Challenges)
+4. #### [Plans for next versions](#Plans-for-next-versions)
+5. #### [Techs used in this project](#Techs-used-in-this-project)
+6. #### [About me (a word with you)](#about-me)
 
 ## Next Update:
 - [ ] add Fatima Zahra (SA) images set 
