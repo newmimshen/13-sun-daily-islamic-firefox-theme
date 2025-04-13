@@ -15,9 +15,8 @@ He added: According to the words of Imam Hadi (AS), Saturday is named after the 
 1. #### [Next update](#Next-update-1)
 2. #### [Code review](#Code-review-1)
 3. #### [Challenges](#Challenges-1)
-4. #### [Plans for next versions](#Plans-for-next-versions-1)
-5. #### [Techs used in this project](#Techs-used-in-this-project-1)
-6. #### [About me (a word with you)](#about-me)
+4. #### [Techs used in this project](#Techs-used-in-this-project-1)
+5. #### [About me (a word with you)](#about-me)
 
 ## Next update:
 - [ ] add Fatima Zahra (SA) images set 
@@ -116,9 +115,6 @@ therefore most of my debugging process was via my phpstorm ide.
 
 - i tested if in manifest.json file, i put file names randomly what happens, it was amazing because i figured out i have to put them in order of their definition, i mean i had to reference variables first, then functions and at the end i call them in index.js file.
 
-## Plans for next versions
-* [ ] for version 2, i plan to add images of Harameyn(shrines) of each suns for when the browser is inactive, but this is a challenge as i mentioned it before. i hope i do it
- 
 ## Techs used in this project
 1. photoshop: to resize images
 2. functional base programming
