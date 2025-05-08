@@ -14,6 +14,7 @@ let sunTheme = {
 const sunPersons = {
     nabi: ['/img/selected/payambar/1.png', '/img/selected/payambar/2.png'],
     ali: ['/img/selected/imam-ali/1.png', '/img/selected/imam-ali/2.png', '/img/selected/imam-ali/3.png'],
+    fatima: ['/img/selected/ya-zahra/1.png', '/img/selected/ya-zahra/2.png', '/img/selected/ya-zahra/3.png', '/img/selected/ya-zahra/4.png', '/img/selected/ya-zahra/5.png'],
     hasan: ['/img/selected/imam-hasan/1.png', '/img/selected/imam-hasan/2.png'],
     hussain: ['/img/selected/imam-hussain/1.png', '/img/selected/imam-hussain/2.png'],
     sajjad: ['/img/selected/imam-sajjad/1.png','/img/selected/imam-sajjad/2.png', '/img/selected/imam-sajjad/3.png', '/img/selected/imam-sajjad/4.png'],
@@ -27,5 +28,5 @@ const sunPersons = {
     hojjat: ['/img/selected/imam-zaman/1.png', '/img/selected/imam-zaman/2.png']
 };
 
-const persons = ['nabi', 'ali', 'hasan', 'hussain', 'sajjad', 'bagir', 'sadigh', 'kazim', 'reza', 'javad', 'hadi', 'askari' ,'hojjat'];
+const persons = ['nabi', 'ali', 'fatima', 'hasan', 'hussain', 'sajjad', 'bagir', 'sadigh', 'kazim', 'reza', 'javad', 'hadi', 'askari' ,'hojjat'];
 let time = new Date().getDay();
