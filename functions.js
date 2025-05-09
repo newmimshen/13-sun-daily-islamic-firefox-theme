@@ -8,26 +8,20 @@ function chooseRandomItem (array,length,minimum){ // get person/image
 
 function chooseSun () {
     let p;
-    if(navigator.language === 'fa-IR')   // according to language changes theme float to right or left
-        sunTheme.properties.additional_backgrounds_alignment = ['left center'];
-    else
-        sunTheme.properties.additional_backgrounds_alignment = ['right center'];
-
     switch(time){
         case 0:
-            p = chooseRandomItem(persons,2,1);
-            sunTheme.images.additional_backgrounds = [sunPersons[p][Math.floor(Math.random() * chooseLengthOfArray(sunPersons[p]))]];
+            sunTheme.images.additional_backgrounds = [chooseRandomItem(sunPersons.ali,chooseLengthOfArray(sunPersons.ali),0)];
             break;
         case 1:
-            p = chooseRandomItem(persons,2,3);
+            p = chooseRandomItem(persons,2,2);
             sunTheme.images.additional_backgrounds = [sunPersons[p][Math.floor(Math.random() * chooseLengthOfArray(sunPersons[p]))]];
             break;
         case 2:
-            p = chooseRandomItem(persons,3,5);
+            p = chooseRandomItem(persons,3,4);
             sunTheme.images.additional_backgrounds = [sunPersons[p][Math.floor(Math.random() * chooseLengthOfArray(sunPersons[p]))]];
             break;
         case 3:
-            p = chooseRandomItem(persons,4,8);
+            p = chooseRandomItem(persons,4,7);
             sunTheme.images.additional_backgrounds = [sunPersons[p][Math.floor(Math.random() * chooseLengthOfArray(sunPersons[p]))]];
             break;
         case 4:
