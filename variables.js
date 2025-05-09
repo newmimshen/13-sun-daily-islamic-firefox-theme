@@ -33,3 +33,4 @@ const sunPersons = {
 const persons = ['nabi', 'ali', 'fatima', 'hasan', 'hussain', 'sajjad', 'bagir', 'sadigh', 'kazim', 'reza', 'javad', 'hadi', 'askari' ,'hojjat'];
 let time = new Date().getDay();
 
+
