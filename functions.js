@@ -14,8 +14,6 @@ function floatThemeTo(){
 function chooseSun () {
     let p;
     floatThemeTo();
-    if(document.hidden)
-        console.log(document.hidden)
     switch(time){
         case 0:
             p = chooseRandomItem(persons,2,1);
