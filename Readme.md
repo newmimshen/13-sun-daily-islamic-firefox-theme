@@ -136,7 +136,7 @@ i created this file via Markdown Monster App.
 v2:  
 - added Fatima Zahra (SA) images set 
 - changeed name of 13 sun to 14 sun
-- add supports for ltr browsers (images be in right side): browser syncs with language, if you choose "en" tabs are left and vice versa: added Farsi support as a rtl browser other langs are considered as ltr 
+- add supports for ltr browsers (images be in right side): browser syncs with language, if you choose "en" tabs are left and vice versa: added Farsi as a rtl browser other langs are considered as ltr 
 - added a relevant icon
 
   
