@@ -1,7 +1,7 @@
 ![an example of add-on](https://github.com/newmimshen/13-sun-daily-islamic-firefox-theme/blob/c7dd20fa951e39833154bdb17918f4224f6efb8e/1.PNG)
 # 13 Sun theme(add-on)
 * Saturday  : Prophet Mohammad
-* Sunday    : Imam Ali
+* Sunday    : Imam Ali and Fatima Zahra
 * Monday    : Hasanain (Imam Hasan & Imam Hussain)
 * Tuesday   : Imam Sajjad & Imam Bagir & Imam Sadiq
 * Wednesday : Imam Kazim & Imam Reza & Imam Javad & Imam Hadi
