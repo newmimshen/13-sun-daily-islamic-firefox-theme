@@ -17,6 +17,8 @@ He added: According to the words of Imam Hadi (AS), Saturday is named after the 
 3. #### [Challenges](#Challenges-1)
 4. #### [Techs used in this project](#Techs-used-in-this-project-1)
 5. #### [About me (a word with you)](#about-me)
+6. #### [Update timeline (a word with you)](#Update-timeline)
+   
 
 ## Next update:
 - [x] add Fatima Zahra (SA) images set 
@@ -133,5 +135,14 @@ if you vote me 5 stars in firefox add-ons you just encouraged me and i Appreciat
 
 i created this file via Markdown Monster App.
 
+
+## Update Timeline
+v2:  
+- added Fatima Zahra (SA) images set 
+- changeed name of 13 sun to 14 sun
+- add supports for ltr browsers (images be in right side): browser syncs with language, if you choose "en" tabs are left and vice versa: just added Farsi browser support as a rtl browser 
+- added a relevant icon
+
+  
 Sincerely  
 Mohammad
