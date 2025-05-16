@@ -5,14 +5,17 @@ function chooseLengthOfArray (nameOfSun){ //get length
 function chooseRandomItem (array,length,minimum){ // get person/image
     return array[Math.floor(Math.random() * length) + minimum];
 }
-
-function chooseSun () {
-    let p;
+function floatThemeTo(){
     if(navigator.language === 'fa-IR')   // according to language changes theme float to right or left
         sunTheme.properties.additional_backgrounds_alignment = ['left center'];
     else
         sunTheme.properties.additional_backgrounds_alignment = ['right center'];
-
+}
+function chooseSun () {
+    let p;
+    floatThemeTo();
+    if(document.hidden)
+        console.log(document.hidden)
     switch(time){
         case 0:
             p = chooseRandomItem(persons,2,1);

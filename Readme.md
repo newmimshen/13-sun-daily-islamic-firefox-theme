@@ -32,7 +32,7 @@ i tried to practice **Clean Code** and **Kiss** principles as much as i can.
 i divided the base code to three files:  
 * variables.js
 * functions.js
-* sun-persons.js (index)  
+* background.js (index)  
 
 the first two files in the list, each are around 30 lines.  
 file names include: images, folders, etc are kebab case. 
